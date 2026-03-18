@@ -46,12 +46,15 @@ course VARCHAR(100)
 ## Example Operations
 
 1. Insert a student record
+
 ![Add Student](Screenshots/insert_stud.PNG)
 
 2. Display all student records
+
 ![Display Student](Screenshots/view_stud.PNG)
 
 3. Update student information
+
 ![Update Student](Screenshots/update_stud.PNG)
 
 ## Author
